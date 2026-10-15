@@ -1,6 +1,6 @@
 cask "bassjump-revived" do
-  version "5.1"
-  sha256 "cd655ad0d3d613fece4289082a74e99bcb5d140603e90e1330149af3fd19ba5b"
+  version "5.2"
+  sha256 "ca23c6560b8cbc4e50ff14789e4526af896a17095e34c7f5f11c2b4758cfaf5e"
 
   url "https://github.com/09kleinkd/BassJumpRevived/releases/download/v#{version}/BassJump-#{version}.zip"
   name "BassJump Revived"
